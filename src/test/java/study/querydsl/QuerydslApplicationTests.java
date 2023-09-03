@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import study.querydsl.entity.Hello;
 import study.querydsl.entity.QHello;
+//import study.querydsl.entity.QHello;
 
 import javax.persistence.EntityManager;
 import javax.transaction.Transactional;
